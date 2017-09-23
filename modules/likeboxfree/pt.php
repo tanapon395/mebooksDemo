@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_39b0e854bf1f412c4d4f5c53d4edfd8c'] = 'Página de fans do facebook  gratuita Likebox Free';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9b9b30cc5124cb38a0b4f37bb3d2f0bb'] = 'Este módulo adiciona um bloco likebox especial com sua fanpage no Facebook. Agora qualquer um pode gostar de sua fanpage facebook!';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_ca94c57b63637887e3d9cde308acadcd'] = 'Nova versão disponível, verifique www.MyPresta.eu para mais informações';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f4d1ea475eaa85102e2b4e6d95da84bd'] = 'Confirmação';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c888438d14855d7d96a2724ee9c306bd'] = 'Configurações atualizadas';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_7a7d57029c0de7a52035f23f44e94b38'] = 'Configuração Likebox';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_265bc69afdaf77a2b20642a84cb2b129'] = 'LikeBox Configurações Visual';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f9e4884c7654daa6581b42ed90aeaba4'] = 'Coluna esquerda';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a6105c0a611b41b08f1209506350279e'] = 'Sim';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_feb6cc332459769fe15570bf332a6b50'] = 'Coluna direita';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_339f7a2e087a159e6a31501649027a77'] = 'Página Inicial (home)';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_ded40f2a77c30efc6062db0cbd857746'] = 'Rodapé';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c19a11786e82b0736dc4735f1bd6e552'] = 'Facebook URL da página';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_381e99d9115db381c11785957d9e508d'] = 'A URL da página no Facebook para LikeBox';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_32954654ac8fe66a1d09be19001de2d4'] = 'Largura';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9cddcd63ac79b2d3a082816b7f63f2a5'] = 'A largura do plugin LikeBox';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_eec6c4bdbd339edf8cbea68becb85244'] = 'Altura';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_623d21d65296ba114e9869f19750fd04'] = 'A altura do plugin LikeBox';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_fb245ae92ca43d261d16844f77cb8c2b'] = 'Esconder capa';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_c1158ba068eb1b9c50ca540357a4cb9c'] = 'Esconda  a foto no cabeçalho';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_39b8a854bbe86af930cbcf99e8febc7c'] = 'Imagens de perfil';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_cff0dbe22647835838e051f7b03d4efb'] = 'Mostrar as fotos dos amigos quando colocam um gosto disto';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_a9fd6e2310092c531efcbf64445c6afd'] = 'Mostrar posts';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_015849ab64a5122201f5c88e8619e359'] = 'Mostrrar posts da timeline';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_f01accb6d08bbe6a90f076ff8a61dbc8'] = 'Botão chamada para ação';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_bb6a0fb85ce3cdb6d1a9638405633790'] = 'Esconda o botão chamar para ação (se disponível)';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_138d883c786e2c40343f5b0e666a3099'] = 'Pequeno cabeçalho';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_ddfbe8f0ca195c2ec74c1f296d2ac399'] = 'Use o pequeno  cabeçalho ';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_9daf1fb753b42c3cdc8f1d01669cd6d8'] = 'Gravar configurações';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_701ce215fb238c7cd5b9aa57b08d79b0'] = 'Visualização Likebox ';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_65dfaccb3ebce4983b68ff8f54f2003a'] = 'Goste de nós no Facebook';
+$_MODULE['<{likeboxfree}prestashop>likeboxfree_23222d3cb0d5f3c3bad3600cc57be0ae'] = 'Desenvolvido com orgulho por ';

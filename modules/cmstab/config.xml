@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cmstab</name>
+    <displayName><![CDATA[CMS Product Tab]]></displayName>
+    <version><![CDATA[1.4.1]]></version>
+    <description><![CDATA[This module allows to display your CMS page as a product tab on each product page in your shop]]></description>
+    <author><![CDATA[MyPresta.eu]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

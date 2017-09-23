@@ -1,0 +1,22 @@
+/**
+ * PrestaShop module created by VEKIA, a guy from official PrestaShop community ;-)
+ *
+ * @author    VEKIA https://www.prestashop.com/forums/user/132608-vekia/
+ * @copyright 2010-2016 VEKIA
+ * @license   This program is not free software and you can't resell and redistribute it
+ *
+ * CONTACT WITH DEVELOPER
+ * support@mypresta.eu
+ */
+
+.cmsproducts ul {
+    list-style: none !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#cms #center_column .cmsproducts img {
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}

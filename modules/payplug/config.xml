@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>payplug</name>
+    <displayName><![CDATA[PayPlug]]></displayName>
+    <version><![CDATA[2.3.0]]></version>
+    <description><![CDATA[The simplest online payment solution: no setup fees, no fixed fees, and no merchant account required!]]></description>
+    <author><![CDATA[PayPlug]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you wish to uninstall this module and delete your settings? All the registered cards of your customer will be deleted.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

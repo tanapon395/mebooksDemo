@@ -1,0 +1,13 @@
+1506191099
+s:1382:"HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 Sep 2017 16:24:41 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1071
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"15282","name":"statssales","displayName":"Sales and orders","categoryName":"Natif","description":"Adds graphics presenting the evolution of sales and orders to the Stats dashboard","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=15282?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-EN&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15282.jpg","fullDescription":"Adds graphics presenting the evolution of sales and orders to the Stats dashboard.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"2.0.0","last_update":"2017-09-23 04:57:00","compatibility":{"from":"1.7.1.0","to":"1.7.2.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/.jpg"}}]}";
