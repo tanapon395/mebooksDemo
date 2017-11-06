@@ -1,2 +1,2 @@
 <?xml version="1.0"?>
-<modules_list><modules type="untrusted"><module name="contactform"/></modules></modules_list>
+<modules_list><modules type="untrusted"><module name="cmsproducts"/><module name="cmstab"/><module name="contactform"/><module name="contentbox"/><module name="deleteordersfree"/><module name="facebookcomments"/><module name="likeboxfree"/><module name="productcomments"/><module name="socialnetworklinks"/></modules></modules_list>

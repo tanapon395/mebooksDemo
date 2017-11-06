@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{oct8ne}prestashop>oct8ne_bc741b828f1fc35a6f10c870d6056343'] = 'Oct8ne';
+$_MODULE['<{oct8ne}prestashop>oct8ne_8ff7439dd2ee3184597be0c738ad566a'] = 'Conector del módulo Oct8ne';
+$_MODULE['<{oct8ne}prestashop>oct8ne_a9390206b02d5d06ee405aa6b4d7b232'] = 'Todos los datos se borrarán ¿Desea continuar?';
+$_MODULE['<{oct8ne}prestashop>oct8ne_004b04925fa8a42d0d28c3862c6947bd'] = 'Identificación incorrecta, por favor, comprueba tus credenciales';
+$_MODULE['<{oct8ne}prestashop>oct8ne_5f2faa4c7bc8b0d9862218f744a1aee3'] = 'Configuración de oct8ne';
+$_MODULE['<{oct8ne}prestashop>oct8ne_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Email';
+$_MODULE['<{oct8ne}prestashop>oct8ne_3d236caa22b35b852d3d9f402ecd361d'] = 'Su email...';
+$_MODULE['<{oct8ne}prestashop>oct8ne_dc647eb65e6711e155375218212b3964'] = 'Contraseña';
+$_MODULE['<{oct8ne}prestashop>oct8ne_45e37dc42e288221084fc298cd93c8bb'] = 'Su contraseña...';
+$_MODULE['<{oct8ne}prestashop>oct8ne_98045f7a4e566c2167bac30218c338ac'] = 'Deberás rellenar los campos con los datos de tu usuario del panel de administración de Oct8ne. Si todavía no tienes un usuario de Oct8ne puedes crearlo';
+$_MODULE['<{oct8ne}prestashop>oct8ne_6c92285fa6d3e827b198d120ea3ac674'] = 'aquí';
+$_MODULE['<{oct8ne}prestashop>oct8ne_99dea78007133396a7b8ed70578ac6ae'] = 'Iniciar sesión';
+$_MODULE['<{oct8ne}prestashop>oct8ne_87e9c089875dbf587734df396ce7423a'] = 'Base de Prestashop';
+$_MODULE['<{oct8ne}prestashop>oct8ne_afaa5ee5fcca30cc8ab8b7b8096d76b8'] = 'Doofinder';
+$_MODULE['<{oct8ne}prestashop>oct8ne_ede9e64250ae298e24874dfe3c23c567'] = 'Motor de búsqueda de Oct8ne';
+$_MODULE['<{oct8ne}prestashop>oct8ne_14e69b495b4ad97a1c4a468d99169b21'] = 'Motor';
+$_MODULE['<{oct8ne}prestashop>oct8ne_daa6b483e9f6ca081ec7e0b4a352f9e9'] = 'Guardar';
+$_MODULE['<{oct8ne}prestashop>oct8ne_d2cb1b13319e5118823778f3e4505f41'] = 'Información de oct8ne';
+$_MODULE['<{oct8ne}prestashop>oct8ne_8d1bd3e5756e3454644c531701ff73e0'] = 'Usuario Activo';
+$_MODULE['<{oct8ne}prestashop>oct8ne_0323de4f66a1700e2173e9bcdce02715'] = 'Cerrar sesión';
+$_MODULE['<{oct8ne}prestashop>oct8ne_3168ca6855e90fdc6ef9a9022b747df3'] = 'Opciones';
+$_MODULE['<{oct8ne}prestashop>oct8ne_031cf59f5628f2828e2433d82aa26c7a'] = 'Puede elegir donde cargar los scripts de oct8ne: En el footer o en el header de su página';
+$_MODULE['<{oct8ne}prestashop>oct8ne_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Posición';
+$_MODULE['<{oct8ne}prestashop>oct8ne_1c8d7e5020585439fe9972e6288b3687'] = 'Tipo de de Imagenes';
+$_MODULE['<{oct8ne}prestashop>oct8ne_a743c9120ecd8b14ccf16ed8d12a68d9'] = 'Tipo 1 añade el id del producto por delante de la id de la imagen. Útil en casos específicos. Cuidado, modifica esta opción sólo si es necesario';
+$_MODULE['<{oct8ne}prestashop>oct8ne_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';

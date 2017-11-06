@@ -46,7 +46,7 @@
         <p class="text-sm-center">
           {block name='copyright_link'}
             <a class="_blank" href="http://www.prestashop.com" target="_blank">
-              {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+              {l s='%copyright% สงวนลิขสิทธิ์ 2560 %mebook%' sprintf=['%mebook%' => 'MeBOOKs', '%copyright%' => '©'] d='Shop.Theme.Global'}
             </a>
           {/block}
         </p>

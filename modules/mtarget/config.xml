@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mtarget</name>
+    <displayName><![CDATA[Mtarget SMS]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[With Mtarget SMS, simplify your life, retain your customers and increase your turnover quickly. Many options and an unbeatable price! Easy to install, 100 SMS available at registration.]]></description>
+    <author><![CDATA[Mtarget]]></author>
+    <tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall the module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

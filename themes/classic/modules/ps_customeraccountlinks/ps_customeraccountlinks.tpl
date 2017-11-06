@@ -23,7 +23,7 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 
-<div id="block_myaccount_infos" class="col-md-2 links wrapper">
+<div id="block_myaccount_infos" class="col-md-3 links wrapper" style="padding-left: 5%">
   <h3 class="myaccount-title hidden-sm-down">
     <a class="text-uppercase" href="{$urls.pages.my_account}" rel="nofollow">
       {l s='Your account' d='Shop.Theme.Customeraccount'}
@@ -40,7 +40,7 @@
   </div>
   <ul class="account-list collapse" id="footer_account_list">
     {foreach from=$my_account_urls item=my_account_url}
-        <li>
+      <li>
           <a href="{$my_account_url.url}" title="{$my_account_url.title}" rel="nofollow">
             {$my_account_url.title}
           </a>

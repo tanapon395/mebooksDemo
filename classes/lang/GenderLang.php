@@ -38,7 +38,9 @@ class GenderLangCore extends DataLangCore
         $this->fieldNames = array(
             'name' => array(
                 md5('Mr.') => $this->translator->trans('Mr.', array(), 'Admin.Shopparameters.Feature', $this->locale),
+                md5('Ms.') => $this->translator->trans('Ms.', array(), 'Admin.Shopparameters.Feature', $this->locale),
                 md5('Mrs.') => $this->translator->trans('Mrs.', array(), 'Admin.Shopparameters.Feature', $this->locale),
+
             ),
         );
     }
